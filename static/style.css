@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+    padding-top: 10%;
+}
+thead tr {
+    background-color: rgb(72, 202, 228);
+    color: whitesmoke;
+}
+tbody tr:nth-child(1){
+    background-color: rgb(144, 224, 239);
+}
+tbody tr:nth-child(2){
+    background-color: rgb(173, 232, 244);
+}
+tbody tr:nth-child(3){
+    background-color: rgb(202, 240, 248);
+}
+tbody tr:nth-child(4){
+    background-color: rgb(144, 224, 239);
+}
+tbody tr:nth-child(5){
+    background-color: rgb(173, 232, 244);
+}
